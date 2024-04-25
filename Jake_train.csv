@@ -1,0 +1,1001 @@
+﻿ID,gender,Management,USAcitizen,Married,MonthsInUnion,ContinuingEd,FeatureA,Connectivity,FeatureC,FeatureD,FeatureE,FeatureF,FeatureG,FeatureB,DuesFrequency,PaperlessBilling,PaymentMethod,MonthlyDues,TotalDues,LeftUnion
+Jake1,Female,0,Yes,Yes,64,Yes,No,DSL,Yes,No,No,Yes,Yes,No,One year,No,Mailed check,66,4068,No
+Jake2,Male,0,No,No,50,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),94,4748,No
+Jake3,Female,0,Yes,No,47,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,27,1251,No
+Jake4,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46,46,Yes
+Jake5,Male,0,Yes,Yes,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,108,5431,No
+Jake6,Female,0,Yes,Yes,69,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),61,4060,No
+Jake7,Male,0,Yes,Yes,51,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,1222,No
+Jake8,Male,0,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),113,8164,No
+Jake9,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,No
+Jake10,Female,0,No,No,68,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82,5647,No
+Jake11,Female,0,Yes,Yes,55,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,56,3132,No
+Jake12,Male,0,Yes,Yes,24,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),24,587,No
+Jake13,Male,0,No,No,27,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,19,530,No
+Jake14,Female,0,No,No,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,104,No
+Jake15,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,87,4017,No
+Jake16,Male,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,74,545,Yes
+Jake17,Female,0,Yes,Yes,39,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,24,915,No
+Jake18,Male,0,No,No,13,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,957,No
+Jake19,Male,0,Yes,No,38,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),69,2669,No
+Jake20,Female,0,No,Yes,12,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,78,909,Yes
+Jake21,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1672,No
+Jake22,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jake23,Female,0,No,No,9,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,81,654,No
+Jake24,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),67,4759,No
+Jake25,Female,0,Yes,Yes,21,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74,1566,Yes
+Jake26,Female,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,187,No
+Jake27,Male,0,Yes,No,69,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),100,6841,No
+Jake28,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),106,7582,No
+Jake29,Female,0,No,No,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,83,No
+Jake30,Male,1,No,No,10,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79,794,Yes
+Jake31,Female,0,No,No,11,Yes,No,DSL,No,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),65,697,No
+Jake32,Female,0,No,No,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,392,No
+Jake33,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jake34,Male,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,83,1799,No
+Jake35,Female,0,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104,7039,No
+Jake36,Female,1,No,No,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,48,340,No
+Jake37,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,79,79,Yes
+Jake38,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,96,96,Yes
+Jake39,Male,0,Yes,Yes,30,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,712,No
+Jake40,Male,1,No,No,30,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,75,2111,No
+Jake41,Female,0,Yes,No,42,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),99,4135,No
+Jake42,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75,889,No
+Jake43,Male,1,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1388,No
+Jake44,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),92,6474,No
+Jake45,Female,0,No,Yes,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,46,Yes
+Jake46,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,20,No
+Jake47,Female,1,No,Yes,30,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101,2975,No
+Jake48,Male,0,Yes,No,18,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,1743,Yes
+Jake49,Female,0,No,No,56,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),45,2560,No
+Jake50,Male,1,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,607,Yes
+Jake51,Female,0,No,No,25,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),78,1838,No
+Jake52,Male,0,Yes,No,42,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),25,1097,No
+Jake53,Male,0,Yes,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1785,No
+Jake54,Male,0,Yes,No,45,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,No,Credit card (automatic),53,2296,No
+Jake55,Male,0,No,No,50,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1195,No
+Jake56,Male,0,No,No,16,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,55,875,No
+Jake57,Male,0,No,No,20,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,419,No
+Jake58,Male,0,Yes,No,27,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,521,No
+Jake59,Female,0,Yes,Yes,6,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,100,No
+Jake60,Female,0,No,No,40,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),75,2972,No
+Jake61,Female,0,No,No,37,No,Maryville,DSL,No,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),29,974,Yes
+Jake62,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jake63,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jake64,Male,0,Yes,No,3,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,24,89,No
+Jake65,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Jake66,Female,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,139,Yes
+Jake67,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,90,6589,No
+Jake68,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,197,Yes
+Jake69,Female,1,Yes,No,37,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,90,3372,No
+Jake70,Female,0,Yes,Yes,22,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,61,1422,Yes
+Jake71,Male,0,Yes,Yes,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1620,No
+Jake72,Male,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,112,Yes
+Jake73,Female,1,Yes,No,45,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,86,3861,No
+Jake74,Female,0,No,No,2,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,51,123,No
+Jake75,Male,0,Yes,Yes,40,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,85,3356,No
+Jake76,Male,0,Yes,Yes,65,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),84,5325,No
+Jake77,Female,0,No,Yes,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94,194,Yes
+Jake78,Female,1,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),104,6405,Yes
+Jake79,Female,0,Yes,Yes,61,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),19,1144,No
+Jake80,Female,0,Yes,Yes,68,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),85,5560,No
+Jake81,Male,0,Yes,Yes,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,78,No
+Jake82,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,8444,No
+Jake83,Female,0,No,No,34,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,85,2897,No
+Jake84,Female,0,No,No,40,Yes,No,DSL,No,No,Yes,No,No,No,One year,Yes,Mailed check,50,2024,No
+Jake85,Female,0,Yes,Yes,41,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,804,No
+Jake86,Male,0,Yes,Yes,23,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,454,No
+Jake87,Female,0,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,5625,Yes
+Jake88,Male,0,No,No,54,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,84,4484,No
+Jake89,Male,0,Yes,Yes,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,155,No
+Jake90,Female,0,Yes,Yes,72,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),23,1623,No
+Jake91,Female,0,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104,243,Yes
+Jake92,Female,0,Yes,No,58,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),61,3479,No
+Jake93,Male,1,Yes,No,55,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,6293,No
+Jake94,Female,0,No,No,50,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),90,4305,No
+Jake95,Female,0,Yes,Yes,62,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),49,3009,No
+Jake96,Female,0,Yes,Yes,9,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,211,No
+Jake97,Female,0,Yes,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,91,1375,No
+Jake98,Male,0,Yes,No,45,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,85,3714,No
+Jake99,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,34,No
+Jake100,Female,0,Yes,Yes,46,No,Maryville,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),35,1620,No
+Jake101,Male,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,104,542,Yes
+Jake102,Male,0,No,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),87,6225,No
+Jake103,Female,0,No,No,14,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,1181,Yes
+Jake104,Male,0,No,No,31,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,609,No
+Jake105,Male,0,No,No,11,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,227,No
+Jake106,Male,1,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74,1134,Yes
+Jake107,Male,0,No,No,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,73,No
+Jake108,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jake109,Male,0,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),85,663,Yes
+Jake110,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25,25,Yes
+Jake111,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),92,6440,Yes
+Jake112,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,76,1901,No
+Jake113,Male,0,Yes,No,39,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,790,No
+Jake114,Male,0,Yes,Yes,34,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),77,2754,No
+Jake115,Female,0,No,No,3,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,51,155,Yes
+Jake116,Female,0,Yes,No,41,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,876,No
+Jake117,Male,0,No,No,22,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),25,493,No
+Jake118,Female,0,No,No,29,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31,856,Yes
+Jake119,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,85,6301,No
+Jake120,Female,0,No,No,4,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24,96,Yes
+Jake121,Female,0,Yes,Yes,7,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,49,350,No
+Jake122,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,71,No
+Jake123,Male,1,Yes,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),89,6307,No
+Jake124,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,69,Yes
+Jake125,Male,1,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),114,7846,No
+Jake126,Female,0,Yes,Yes,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,160,No
+Jake127,Male,0,No,No,2,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,49,90,Yes
+Jake128,Male,0,Yes,No,14,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),49,664,No
+Jake129,Female,1,No,No,46,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),69,3255,No
+Jake130,Male,0,No,No,43,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,3199,Yes
+Jake131,Female,0,Yes,Yes,16,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),36,553,No
+Jake132,Male,0,Yes,Yes,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45,334,No
+Jake133,Female,0,No,No,10,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,30,302,No
+Jake134,Male,0,Yes,No,56,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,107,6033,No
+Jake135,Male,0,No,No,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,179,No
+Jake136,Male,0,No,Yes,24,No,Maryville,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,36,831,No
+Jake137,Male,0,Yes,Yes,42,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55,2301,No
+Jake138,Male,0,No,No,27,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,49,1291,No
+Jake139,Male,0,Yes,No,51,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),83,4089,No
+Jake140,Male,0,Yes,No,57,No,Maryville,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),58,3266,No
+Jake141,Female,0,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8014,No
+Jake142,Female,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,92,6786,No
+Jake143,Male,1,No,No,57,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,5914,No
+Jake144,Male,0,No,No,21,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,390,No
+Jake145,Female,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,138,Yes
+Jake146,Female,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3415,No
+Jake147,Female,1,Yes,No,26,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,61,1597,No
+Jake148,Male,1,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90,6143,Yes
+Jake149,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,124,No
+Jake150,Male,0,No,No,55,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),78,4323,No
+Jake151,Female,0,No,No,17,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,475,No
+Jake152,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,Yes
+Jake153,Female,0,Yes,No,28,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,92,2603,Yes
+Jake154,Male,1,No,No,44,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,3122,No
+Jake155,Female,0,Yes,No,50,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),20,943,No
+Jake156,Female,0,Yes,No,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1417,No
+Jake157,Female,0,No,Yes,65,No,Maryville,DSL,No,Yes,No,Yes,Yes,No,Two year,No,Mailed check,45,2934,No
+Jake158,Male,0,No,No,63,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87,5310,No
+Jake159,Male,0,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,49,49,No
+Jake160,Female,0,Yes,Yes,43,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),51,2152,No
+Jake161,Female,0,No,No,7,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,80,605,Yes
+Jake162,Female,0,Yes,No,72,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,85,6155,No
+Jake163,Male,0,No,No,24,No,Maryville,DSL,Yes,No,No,No,Yes,Yes,One year,Yes,Mailed check,51,1289,No
+Jake164,Male,0,No,No,31,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,2979,No
+Jake165,Female,0,No,No,28,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),55,1505,No
+Jake166,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1791,No
+Jake167,Female,0,Yes,No,67,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Mailed check,66,4323,No
+Jake168,Female,0,Yes,No,62,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1417,No
+Jake169,Male,0,No,Yes,29,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),101,2830,No
+Jake170,Female,1,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,1463,Yes
+Jake171,Male,0,Yes,Yes,34,No,Maryville,DSL,Yes,No,No,No,No,No,One year,No,Bank transfer (automatic),30,939,No
+Jake172,Female,0,Yes,No,24,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,457,No
+Jake173,Female,0,No,No,65,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),105,6744,No
+Jake174,Female,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25,25,Yes
+Jake175,Male,0,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,112,5720,No
+Jake176,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,26,1776,No
+Jake177,Male,0,No,No,11,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),23,245,Yes
+Jake178,Male,0,No,Yes,68,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),87,5883,No
+Jake179,Male,0,No,No,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,110,No
+Jake180,Female,0,No,Yes,15,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69,995,Yes
+Jake181,Female,0,Yes,No,58,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,84,4916,No
+Jake182,Male,0,Yes,Yes,42,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,No,Credit card (automatic),64,2763,No
+Jake183,Female,0,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),108,7119,No
+Jake184,Female,0,Yes,Yes,43,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),60,2641,No
+Jake185,Female,0,No,No,56,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,107,5914,No
+Jake186,Male,0,Yes,No,1,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,95,Yes
+Jake187,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,44,No
+Jake188,Male,0,Yes,Yes,62,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1264,No
+Jake189,Female,1,No,No,22,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,70,1545,No
+Jake190,Male,0,Yes,Yes,65,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1293,No
+Jake191,Male,0,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,90,2165,Yes
+Jake192,Female,0,Yes,No,25,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,71,1838,No
+Jake193,Male,0,Yes,Yes,65,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),75,4820,Yes
+Jake194,Female,0,No,No,54,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),95,5065,No
+Jake195,Male,0,No,No,46,No,Maryville,DSL,Yes,No,No,No,No,No,One year,Yes,Bank transfer (automatic),31,1489,No
+Jake196,Male,0,No,No,9,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45,419,Yes
+Jake197,Male,0,No,No,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),69,4448,No
+Jake198,Female,0,Yes,Yes,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),108,7931,No
+Jake199,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60,488,No
+Jake200,Female,1,Yes,No,60,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),101,6029,No
+Jake201,Female,0,Yes,Yes,30,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,609,No
+Jake202,Female,0,Yes,Yes,39,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),82,3107,No
+Jake203,Male,0,Yes,No,9,No,Maryville,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,41,329,Yes
+Jake204,Female,1,No,No,6,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,434,Yes
+Jake205,Female,0,Yes,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,253,No
+Jake206,Male,0,No,No,32,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),65,2011,No
+Jake207,Male,1,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95,6382,No
+Jake208,Male,0,Yes,Yes,69,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Credit card (automatic),79,5421,No
+Jake209,Female,0,Yes,Yes,56,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),69,3808,No
+Jake210,Female,0,No,No,11,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,65,716,No
+Jake211,Male,0,No,No,35,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),26,955,No
+Jake212,Male,0,No,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),82,2549,No
+Jake213,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,45,Yes
+Jake214,Male,0,No,No,47,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,No,Bank transfer (automatic),95,4536,No
+Jake215,Male,1,Yes,No,17,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),82,1329,Yes
+Jake216,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,101,7323,No
+Jake217,Female,0,No,No,54,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,81,4300,No
+Jake218,Male,0,Yes,No,41,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Electronic check,20,899,No
+Jake219,Male,0,Yes,Yes,3,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,50,168,Yes
+Jake220,Female,0,No,No,3,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79,247,Yes
+Jake221,Female,1,Yes,No,22,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,64,1382,No
+Jake222,Female,0,No,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,302,No
+Jake223,Female,0,Yes,Yes,64,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,91,5817,No
+Jake224,Female,1,Yes,No,60,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,6926,No
+Jake225,Female,0,Yes,No,56,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,24,1262,No
+Jake226,Female,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,191,Yes
+Jake227,Male,0,Yes,Yes,68,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1378,No
+Jake228,Female,0,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,1415,No
+Jake229,Female,0,Yes,Yes,19,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25,435,No
+Jake230,Male,1,Yes,No,52,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104,5481,No
+Jake231,Male,0,No,No,37,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,67,2443,No
+Jake232,Male,0,No,No,12,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,67,832,No
+Jake233,Female,0,No,No,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),80,4995,No
+Jake234,Female,0,No,No,29,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),69,1971,Yes
+Jake235,Female,1,No,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),81,1614,No
+Jake236,Male,0,No,No,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,186,Yes
+Jake237,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115,8334,No
+Jake238,Female,0,No,No,44,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85,3863,Yes
+Jake239,Male,0,No,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,No,Credit card (automatic),105,6591,No
+Jake240,Male,0,Yes,No,71,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Two year,No,Electronic check,49,3515,Yes
+Jake241,Female,1,Yes,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,83,308,No
+Jake242,Female,0,Yes,No,71,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),67,4689,No
+Jake243,Male,0,Yes,No,41,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,73,3001,Yes
+Jake244,Male,1,Yes,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4680,Yes
+Jake245,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,71,No
+Jake246,Female,0,No,No,14,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,75,1026,Yes
+Jake247,Female,0,No,Yes,43,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),106,4532,No
+Jake248,Male,0,No,Yes,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jake249,Female,1,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,45,Yes
+Jake250,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,81,No
+Jake251,Male,0,No,No,52,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),89,4578,No
+Jake252,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,707,Yes
+Jake253,Male,0,No,Yes,5,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,107,No
+Jake254,Male,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),100,5681,No
+Jake255,Female,1,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74,196,No
+Jake256,Male,1,Yes,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,457,No
+Jake257,Male,0,No,No,30,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),97,3021,No
+Jake258,Male,0,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79,1730,Yes
+Jake259,Female,1,No,No,1,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,56,56,Yes
+Jake260,Male,0,Yes,No,66,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,85,5538,No
+Jake261,Female,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),88,6365,No
+Jake262,Female,0,No,Yes,63,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1215,No
+Jake263,Female,0,No,No,13,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49,649,No
+Jake264,Female,0,No,No,68,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,54,3688,No
+Jake265,Female,0,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71,141,Yes
+Jake266,Female,0,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,88,789,No
+Jake267,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),26,1802,No
+Jake268,Female,0,No,No,17,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,1145,Yes
+Jake269,Male,0,No,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Jake270,Female,0,Yes,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),115,7844,No
+Jake271,Male,1,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),102,5266,No
+Jake272,Female,0,Yes,Yes,69,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),46,3121,No
+Jake273,Male,1,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7052,No
+Jake274,Male,0,No,No,67,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,19,1196,No
+Jake275,Female,0,Yes,Yes,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44,135,Yes
+Jake276,Female,0,No,No,1,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,75,75,Yes
+Jake277,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,Yes,One year,No,Credit card (automatic),56,2689,No
+Jake278,Male,0,No,No,29,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),49,1324,No
+Jake279,Female,0,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,81,3541,No
+Jake280,Male,0,Yes,No,47,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,74,3523,No
+Jake281,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,679,Yes
+Jake282,Female,0,Yes,No,46,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),64,3010,No
+Jake283,Male,1,No,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,107,1364,Yes
+Jake284,Male,1,Yes,Yes,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,101,4541,Yes
+Jake285,Female,0,No,No,40,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,830,No
+Jake286,Male,1,Yes,No,30,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,75,2182,No
+Jake287,Female,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,302,No
+Jake288,Male,0,No,No,8,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,67,579,No
+Jake289,Female,0,No,No,43,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,105,4760,Yes
+Jake290,Male,0,Yes,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,108,4586,No
+Jake291,Female,1,No,No,9,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),76,637,No
+Jake292,Male,0,No,No,40,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),62,2512,No
+Jake293,Female,0,No,No,8,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,142,No
+Jake294,Female,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,103,4595,No
+Jake295,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),114,8124,No
+Jake296,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),67,4749,No
+Jake297,Female,0,No,Yes,2,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),61,126,No
+Jake298,Male,0,No,No,59,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),61,3646,No
+Jake299,Female,0,No,No,2,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,59,114,No
+Jake300,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,6287,No
+Jake301,Female,0,Yes,No,54,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),107,5763,Yes
+Jake302,Female,0,Yes,Yes,24,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,55,1320,No
+Jake303,Male,0,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,1559,No
+Jake304,Female,1,No,No,23,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1644,No
+Jake305,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),101,5971,No
+Jake306,Female,0,Yes,Yes,45,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,4731,No
+Jake307,Male,0,Yes,No,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,202,No
+Jake308,Female,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),64,4528,No
+Jake309,Male,0,No,No,17,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,77,1314,Yes
+Jake310,Female,0,No,No,23,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,79,1843,No
+Jake311,Female,0,No,No,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,389,No
+Jake312,Female,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75,75,Yes
+Jake313,Female,0,No,No,14,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50,710,No
+Jake314,Female,0,No,No,68,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),21,1425,No
+Jake315,Female,0,Yes,No,48,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,97,4693,No
+Jake316,Male,0,Yes,Yes,29,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),55,1637,No
+Jake317,Female,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,106,No
+Jake318,Male,0,No,No,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),21,1107,No
+Jake319,Male,0,No,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),114,5791,No
+Jake320,Male,0,No,No,51,No,Maryville,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),44,2182,No
+Jake321,Male,0,Yes,Yes,4,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),61,230,Yes
+Jake322,Female,0,No,No,21,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69,1493,No
+Jake323,Female,0,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2624,Yes
+Jake324,Male,1,Yes,No,72,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),77,5396,No
+Jake325,Male,0,No,No,65,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),25,1601,No
+Jake326,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55,55,Yes
+Jake327,Male,0,Yes,Yes,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,85,No
+Jake328,Male,0,No,No,53,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1279,No
+Jake329,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1776,No
+Jake330,Female,0,Yes,No,60,No,Maryville,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,50,2912,No
+Jake331,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85,2661,Yes
+Jake332,Female,0,Yes,Yes,26,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,494,No
+Jake333,Female,0,No,No,58,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80,4527,No
+Jake334,Male,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,114,6561,No
+Jake335,Male,0,Yes,No,63,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),80,5040,No
+Jake336,Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,855,Yes
+Jake337,Female,0,No,No,69,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1678,No
+Jake338,Male,0,No,Yes,1,No,Maryville,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,34,34,No
+Jake339,Female,0,Yes,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,92,365,Yes
+Jake340,Male,0,No,No,8,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,169,No
+Jake341,Male,1,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,91,2845,No
+Jake342,Female,0,No,No,28,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),55,1518,No
+Jake343,Female,0,No,No,32,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,One year,No,Mailed check,75,2283,No
+Jake344,Female,0,Yes,No,55,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,95,5276,No
+Jake345,Female,0,Yes,Yes,3,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,250,Yes
+Jake346,Male,0,Yes,Yes,47,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,54,2538,No
+Jake347,Male,0,No,Yes,48,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),64,3035,No
+Jake348,Female,0,Yes,Yes,40,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,1025,No
+Jake349,Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,2642,Yes
+Jake350,Female,0,No,No,45,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,87,3942,Yes
+Jake351,Male,0,No,No,16,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,49,799,No
+Jake352,Female,0,Yes,Yes,12,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,29,309,Yes
+Jake353,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,105,6989,No
+Jake354,Male,1,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,5684,No
+Jake355,Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,89,3341,No
+Jake356,Male,0,Yes,No,33,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),45,1463,No
+Jake357,Male,0,No,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),81,5708,No
+Jake358,Female,0,No,No,45,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),82,3619,No
+Jake359,Male,1,Yes,No,29,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),90,2657,No
+Jake360,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,63,63,No
+Jake361,Male,0,No,No,12,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,912,No
+Jake362,Female,0,No,No,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,338,No
+Jake363,Male,0,Yes,Yes,55,Yes,No,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),55,3120,No
+Jake364,Female,0,Yes,No,10,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),68,653,No
+Jake365,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),106,7657,No
+Jake366,Female,0,No,No,50,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,80,4024,No
+Jake367,Male,1,No,No,21,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),97,2030,Yes
+Jake368,Female,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),80,5714,No
+Jake369,Female,0,Yes,Yes,11,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,180,Yes
+Jake370,Male,0,No,No,67,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),51,3260,No
+Jake371,Male,0,No,No,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,182,No
+Jake372,Male,0,No,No,22,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95,2143,No
+Jake373,Male,0,Yes,Yes,69,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,92,6481,No
+Jake374,Male,1,No,Yes,7,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,344,No
+Jake375,Male,0,No,No,29,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,20,572,No
+Jake376,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),101,7334,No
+Jake377,Female,0,No,No,674,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),5037,1679,No
+Jake378,Male,1,No,No,21,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),60,1236,Yes
+Jake379,Female,0,Yes,No,14,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,292,No
+Jake380,Female,1,Yes,No,8,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),81,633,Yes
+Jake381,Male,0,Yes,No,63,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),110,6706,No
+Jake382,Male,0,No,No,35,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,19,638,No
+Jake383,Female,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),107,7677,No
+Jake384,Female,1,Yes,No,20,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,60,1259,No
+Jake385,Female,0,No,No,699,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,816,272,Yes
+Jake386,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,35,35,Yes
+Jake387,Female,0,Yes,No,33,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),95,3008,No
+Jake388,Female,1,No,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90,3839,No
+Jake389,Female,0,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,2388,Yes
+Jake390,Male,0,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,86,245,No
+Jake391,Female,0,No,No,12,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),80,958,No
+Jake392,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,No
+Jake393,Female,0,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,5986,No
+Jake394,Female,0,Yes,No,65,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),59,3857,No
+Jake395,Female,0,No,No,48,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,No,Electronic check,75,3773,No
+Jake396,Male,0,No,No,21,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,418,No
+Jake397,Female,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),110,5406,No
+Jake398,Female,0,Yes,Yes,32,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,90,2902,No
+Jake399,Female,0,Yes,Yes,5,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,99,465,Yes
+Jake400,Female,0,No,No,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),19,227,No
+Jake401,Male,0,No,No,12,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Electronic check,96,1184,No
+Jake402,Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,170,Yes
+Jake403,Male,0,Yes,Yes,6,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,153,No
+Jake404,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25,25,No
+Jake405,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),113,8062,No
+Jake406,Female,1,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24,42,Yes
+Jake407,Female,0,Yes,No,32,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),84,2586,Yes
+Jake408,Female,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,76,403,No
+Jake409,Male,0,Yes,No,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),86,6046,No
+Jake410,Female,0,Yes,Yes,14,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,1047,No
+Jake411,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,90,2179,Yes
+Jake412,Female,0,Yes,No,38,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),20,815,No
+Jake413,Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,106,6487,No
+Jake414,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,20,Yes
+Jake415,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,79,Yes
+Jake416,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,324,Yes
+Jake417,Female,0,No,No,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1822,No
+Jake418,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),114,8086,No
+Jake419,Male,1,Yes,No,10,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75,720,No
+Jake420,Male,0,No,Yes,20,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,19,375,Yes
+Jake421,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),118,8685,Yes
+Jake422,Male,0,No,No,25,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,536,No
+Jake423,Male,0,No,No,21,No,Maryville,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,44,1012,No
+Jake424,Male,0,Yes,Yes,50,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),45,2231,No
+Jake425,Female,0,No,No,29,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2933,Yes
+Jake426,Male,0,No,No,27,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,595,No
+Jake427,Male,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),90,5826,No
+Jake428,Female,0,No,No,4,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,55,221,No
+Jake429,Female,1,Yes,No,60,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,6668,No
+Jake430,Female,0,Yes,No,45,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),95,4286,No
+Jake431,Female,1,Yes,No,26,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),86,2067,No
+Jake432,Male,0,No,No,30,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),90,2723,No
+Jake433,Male,0,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74,1284,Yes
+Jake434,Male,0,No,No,10,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,252,No
+Jake435,Male,0,No,No,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),20,1355,No
+Jake436,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,21,No
+Jake437,Female,0,No,No,36,No,Maryville,DSL,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),31,1126,No
+Jake438,Female,0,No,No,16,No,Maryville,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,39,664,No
+Jake439,Male,0,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),73,3249,No
+Jake440,Female,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,132,Yes
+Jake441,Female,0,Yes,No,53,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,One year,Yes,Electronic check,91,4863,No
+Jake442,Female,1,Yes,No,66,No,Maryville,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),46,3027,No
+Jake443,Female,0,Yes,No,29,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,573,No
+Jake444,Male,0,No,No,9,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,181,No
+Jake445,Female,0,Yes,Yes,57,Yes,No,DSL,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),70,3913,Yes
+Jake446,Male,0,No,No,26,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,2147,No
+Jake447,Female,0,No,No,16,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,19,327,No
+Jake448,Male,0,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),50,50,No
+Jake449,Female,0,No,No,22,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,90,1994,Yes
+Jake450,Female,0,No,No,9,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,66,621,Yes
+Jake451,Female,0,No,No,3,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,58,161,No
+Jake452,Male,0,Yes,Yes,60,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1162,No
+Jake453,Female,0,No,No,66,No,Maryville,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,47,3177,No
+Jake454,Female,0,No,No,5,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,92,No
+Jake455,Female,0,Yes,Yes,58,Yes,No,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,44,2413,No
+Jake456,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),76,5411,No
+Jake457,Female,0,No,No,45,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,100,4484,No
+Jake458,Male,0,No,Yes,56,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,21,1239,No
+Jake459,Male,1,No,No,24,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76,1713,Yes
+Jake460,Male,0,No,No,26,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,85,2185,No
+Jake461,Female,0,Yes,Yes,39,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,90,3474,Yes
+Jake462,Female,0,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79,79,Yes
+Jake463,Female,0,Yes,Yes,29,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,20,540,No
+Jake464,Female,0,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,No
+Jake465,Female,0,No,No,6,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48,305,Yes
+Jake466,Male,0,No,Yes,39,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1004,No
+Jake467,Female,1,No,No,64,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),109,7111,No
+Jake468,Male,0,Yes,Yes,49,No,Maryville,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,39,1838,No
+Jake469,Female,0,No,No,5,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),51,245,No
+Jake470,Male,1,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,573,No
+Jake471,Male,0,Yes,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,84,1968,No
+Jake472,Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,1206,No
+Jake473,Male,0,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,110,6448,Yes
+Jake474,Male,0,Yes,Yes,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),95,4369,No
+Jake475,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,89,179,Yes
+Jake476,Female,0,No,No,4,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,106,444,Yes
+Jake477,Male,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,368,Yes
+Jake478,Male,0,Yes,Yes,22,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89,1885,No
+Jake479,Female,0,No,No,10,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,95,953,Yes
+Jake480,Male,0,Yes,Yes,41,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,798,No
+Jake481,Male,1,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,2440,Yes
+Jake482,Male,0,Yes,Yes,61,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),68,4158,No
+Jake483,Female,1,Yes,No,2,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),50,115,Yes
+Jake484,Male,1,No,No,18,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),58,965,No
+Jake485,Female,0,No,No,52,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),59,3039,No
+Jake486,Male,0,Yes,Yes,61,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),104,6449,No
+Jake487,Male,0,Yes,Yes,10,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,50,476,No
+Jake488,Male,1,Yes,No,37,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,3171,Yes
+Jake489,Female,0,No,No,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,39,Yes
+Jake490,Male,0,No,Yes,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,61,No
+Jake491,Male,0,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,110,7854,No
+Jake492,Male,0,Yes,Yes,33,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,690,No
+Jake493,Female,0,Yes,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,323,No
+Jake494,Female,0,Yes,Yes,38,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,749,No
+Jake495,Female,0,Yes,Yes,60,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1103,No
+Jake496,Male,1,Yes,No,21,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65,1340,No
+Jake497,Female,0,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77,664,No
+Jake498,Male,1,No,No,71,No,Maryville,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,56,3985,No
+Jake499,Male,0,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),83,4065,Yes
+Jake500,Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77,228,Yes
+Jake501,Male,0,No,No,23,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,481,No
+Jake502,Male,0,Yes,Yes,66,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),55,3632,No
+Jake503,Female,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,151,No
+Jake504,Male,0,No,Yes,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,48,No
+Jake505,Female,1,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85,360,Yes
+Jake506,Female,0,No,No,4,No,Maryville,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,35,136,No
+Jake507,Male,0,Yes,Yes,55,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),58,3046,Yes
+Jake508,Male,0,Yes,Yes,36,No,Maryville,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),61,2235,No
+Jake509,Female,0,No,No,34,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70,2416,Yes
+Jake510,Female,0,No,No,68,No,Maryville,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,39,2719,No
+Jake511,Female,1,No,No,23,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,2294,Yes
+Jake512,Male,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81,586,Yes
+Jake513,Male,0,No,No,26,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),75,1908,No
+Jake514,Female,1,Yes,Yes,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96,1346,No
+Jake515,Female,0,No,Yes,25,No,Maryville,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),35,844,No
+Jake516,Female,1,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),108,7774,No
+Jake517,Female,0,Yes,Yes,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,88,5527,No
+Jake518,Female,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,89,1908,Yes
+Jake519,Male,0,Yes,Yes,10,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,24,254,No
+Jake520,Female,0,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),92,5964,No
+Jake521,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+Jake522,Female,0,No,No,31,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,683,No
+Jake523,Female,0,No,No,29,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),19,602,No
+Jake524,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,104,7635,No
+Jake525,Female,0,Yes,No,68,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),58,3976,No
+Jake526,Female,0,No,No,36,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),86,3004,No
+Jake527,Female,0,Yes,Yes,20,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),106,2240,Yes
+Jake528,Male,1,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),103,7550,No
+Jake529,Female,0,No,No,37,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,784,No
+Jake530,Female,0,No,No,28,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,2626,Yes
+Jake531,Male,0,No,No,53,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,81,4348,No
+Jake532,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,19,Yes
+Jake533,Male,1,Yes,No,13,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89,1169,Yes
+Jake534,Male,0,Yes,Yes,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,51,226,Yes
+Jake535,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,45,Yes
+Jake536,Female,0,No,No,16,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,1340,No
+Jake537,Female,0,Yes,Yes,58,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),99,5847,No
+Jake538,Male,0,Yes,No,50,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,1068,No
+Jake539,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),44,44,No
+Jake540,Male,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),108,5067,No
+Jake541,Female,0,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),95,6771,No
+Jake542,Male,1,No,No,33,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55,1804,No
+Jake543,Female,0,No,No,20,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),19,434,No
+Jake544,Male,0,No,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,3777,Yes
+Jake545,Female,0,No,No,10,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),80,846,Yes
+Jake546,Female,0,No,No,63,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),100,6137,Yes
+Jake547,Female,0,Yes,Yes,43,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99,4210,No
+Jake548,Male,0,No,No,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),81,4126,No
+Jake549,Male,1,Yes,Yes,41,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,112,4535,Yes
+Jake550,Female,1,No,No,39,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4036,No
+Jake551,Male,0,No,No,18,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,70,1199,No
+Jake552,Female,0,Yes,Yes,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,85,3303,Yes
+Jake553,Male,0,Yes,No,67,No,Maryville,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),51,3522,No
+Jake554,Male,0,Yes,Yes,53,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,79,3942,No
+Jake555,Male,0,Yes,Yes,42,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Electronic check,97,4017,No
+Jake556,Male,1,No,No,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1356,No
+Jake557,Male,0,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),117,8036,No
+Jake558,Male,1,Yes,No,36,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),54,1993,No
+Jake559,Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86,182,Yes
+Jake560,Male,0,No,No,33,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),66,2245,No
+Jake561,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,45,Yes
+Jake562,Female,0,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,76,161,Yes
+Jake563,Female,0,No,No,48,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),103,4904,No
+Jake564,Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,45,No
+Jake565,Male,1,Yes,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),65,4546,No
+Jake566,Female,0,Yes,Yes,62,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),70,4300,No
+Jake567,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),24,1733,No
+Jake568,Male,0,No,Yes,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),100,4634,No
+Jake569,Male,1,Yes,Yes,61,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,99,5969,No
+Jake570,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76,76,No
+Jake571,Female,0,No,No,59,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Electronic check,24,1493,No
+Jake572,Female,0,Yes,No,21,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Electronic check,79,1742,No
+Jake573,Male,0,No,No,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,20,254,No
+Jake574,Female,0,No,No,7,No,Maryville,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),40,293,Yes
+Jake575,Female,0,Yes,Yes,54,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),60,3274,No
+Jake576,Female,1,Yes,No,62,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),98,5937,No
+Jake577,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,46,46,Yes
+Jake578,Male,0,Yes,Yes,58,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,50,2920,No
+Jake579,Female,0,Yes,Yes,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,1204,No
+Jake580,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jake581,Male,0,Yes,Yes,2,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,35,No
+Jake582,Female,0,Yes,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),95,2463,No
+Jake583,Male,0,Yes,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),21,51,Yes
+Jake584,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,90,988,Yes
+Jake585,Female,0,Yes,Yes,4,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,59,225,No
+Jake586,Female,0,Yes,Yes,66,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card (automatic),58,3811,No
+Jake587,Female,0,No,No,50,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,19,1033,No
+Jake588,Female,0,Yes,Yes,61,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,60,3642,No
+Jake589,Female,0,Yes,No,19,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,97,1743,No
+Jake590,Male,0,No,No,40,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,3369,No
+Jake591,Female,0,No,No,15,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,84,1288,No
+Jake592,Female,0,No,No,56,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),60,3283,No
+Jake593,Male,0,No,No,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),64,4465,No
+Jake594,Female,0,No,No,12,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,76,854,No
+Jake595,Female,0,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75,999,Yes
+Jake596,Male,0,Yes,Yes,49,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4872,Yes
+Jake597,Male,0,Yes,No,51,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),90,4615,No
+Jake598,Female,0,Yes,No,2,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,62,113,No
+Jake599,Male,0,No,No,2,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,70,132,No
+Jake600,Male,0,Yes,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,189,No
+Jake601,Male,0,No,Yes,11,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,78,852,No
+Jake602,Male,0,No,No,59,Yes,Yes,DSL,No,No,Yes,No,No,No,Two year,No,Credit card (automatic),54,3116,No
+Jake603,Female,1,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,51,51,Yes
+Jake604,Female,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,105,2239,No
+Jake605,Female,0,Yes,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70,1540,No
+Jake606,Male,0,Yes,No,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),19,341,No
+Jake607,Male,1,No,No,20,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,1843,Yes
+Jake608,Male,0,Yes,No,72,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),79,5753,No
+Jake609,Female,0,No,No,36,Yes,Yes,DSL,No,No,Yes,No,No,No,One year,No,Electronic check,56,1942,No
+Jake610,Male,0,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,6563,No
+Jake611,Male,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,169,No
+Jake612,Female,0,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,120,No
+Jake613,Female,0,No,No,43,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,92,3954,No
+Jake614,Female,0,No,Yes,46,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),105,4823,Yes
+Jake615,Female,0,Yes,Yes,39,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,758,No
+Jake616,Female,1,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,92,730,Yes
+Jake617,Female,1,No,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),117,8436,No
+Jake618,Female,1,Yes,No,69,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Credit card (automatic),87,6056,No
+Jake619,Male,0,Yes,Yes,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),19,1284,No
+Jake620,Female,1,No,No,16,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,54,889,No
+Jake621,Female,0,No,No,1,No,Maryville,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30,30,Yes
+Jake622,Female,0,No,Yes,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,3947,No
+Jake623,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,6325,No
+Jake624,Female,0,No,No,7,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,60,416,Yes
+Jake625,Female,0,No,No,23,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75,1779,No
+Jake626,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,416,Yes
+Jake627,Male,0,Yes,No,37,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),20,698,No
+Jake628,Female,0,No,Yes,35,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Credit card (automatic),56,2016,No
+Jake629,Female,0,Yes,No,34,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),50,1815,No
+Jake630,Female,1,No,No,32,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,2277,Yes
+Jake631,Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),45,2169,No
+Jake632,Male,0,No,No,33,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),81,2651,No
+Jake633,Male,0,No,No,33,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,68,2171,Yes
+Jake634,Male,1,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,87,857,Yes
+Jake635,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80,181,Yes
+Jake636,Male,1,Yes,Yes,10,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),35,363,No
+Jake637,Female,0,No,No,48,Yes,No,DSL,Yes,Yes,No,No,No,No,Two year,No,Credit card (automatic),56,2627,No
+Jake638,Female,0,No,No,4,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),77,334,Yes
+Jake639,Male,0,No,No,18,No,Maryville,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),34,600,Yes
+Jake640,Male,0,Yes,No,37,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Mailed check,79,2912,No
+Jake641,Female,0,No,No,22,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,50,1049,No
+Jake642,Female,0,Yes,No,2,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35,69,Yes
+Jake643,Male,0,No,No,4,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,79,No
+Jake644,Male,1,Yes,No,16,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55,825,No
+Jake645,Male,0,Yes,No,17,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,50,836,No
+Jake646,Male,0,Yes,No,22,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,472,No
+Jake647,Male,0,Yes,Yes,61,No,Maryville,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),34,2117,No
+Jake648,Female,0,No,No,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,21,110,No
+Jake649,Female,1,Yes,No,68,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),61,3976,No
+Jake650,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),105,7538,No
+Jake651,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,20,No
+Jake652,Male,0,No,No,18,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,402,No
+Jake653,Female,0,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94,1046,Yes
+Jake654,Female,0,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),112,5810,No
+Jake655,Male,1,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116,8399,No
+Jake656,Female,0,Yes,Yes,26,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,495,No
+Jake657,Female,1,No,No,29,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),59,1719,No
+Jake658,Female,0,Yes,No,70,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),86,5950,No
+Jake659,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114,8093,No
+Jake660,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,No
+Jake661,Male,0,Yes,Yes,53,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,19,1110,No
+Jake662,Male,0,Yes,No,3,No,Maryville,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,35,101,No
+Jake663,Female,0,Yes,Yes,57,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1168,No
+Jake664,Male,0,No,No,2,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,62,No
+Jake665,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101,3527,No
+Jake666,Female,0,No,No,52,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,1023,No
+Jake667,Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,1559,No
+Jake668,Female,0,No,No,3,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,25,86,No
+Jake669,Female,1,No,No,13,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1308,Yes
+Jake670,Female,0,Yes,Yes,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,418,No
+Jake671,Male,0,Yes,Yes,29,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),80,2212,No
+Jake672,Female,0,Yes,Yes,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,232,No
+Jake673,Female,1,No,No,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25,25,Yes
+Jake674,Female,0,No,Yes,21,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,21,452,No
+Jake675,Male,0,Yes,Yes,16,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,21,291,No
+Jake676,Male,0,Yes,Yes,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,862,No
+Jake677,Female,0,No,No,64,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),24,1601,No
+Jake678,Male,0,Yes,No,61,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),21,1252,No
+Jake679,Male,0,No,No,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,221,No
+Jake680,Female,1,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,79,150,Yes
+Jake681,Male,0,No,No,30,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),84,2439,No
+Jake682,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1643,No
+Jake683,Male,0,No,No,14,No,Maryville,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55,772,No
+Jake684,Male,0,Yes,Yes,23,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,427,No
+Jake685,Male,0,Yes,Yes,66,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1672,No
+Jake686,Female,0,Yes,Yes,10,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,226,No
+Jake687,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,93,5981,No
+Jake688,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74,520,Yes
+Jake689,Male,0,Yes,Yes,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),24,1735,No
+Jake690,Female,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,87,2874,Yes
+Jake691,Female,0,Yes,Yes,8,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,56,447,No
+Jake692,Female,0,Yes,Yes,11,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,234,No
+Jake693,Female,0,No,Yes,1,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25,25,No
+Jake694,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111,8241,No
+Jake695,Male,0,No,Yes,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,19,No
+Jake696,Female,0,Yes,Yes,12,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Bank transfer (automatic),19,198,No
+Jake697,Male,1,No,No,20,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,1745,No
+Jake698,Male,0,Yes,Yes,43,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),79,3567,No
+Jake699,Male,0,No,No,23,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,91,1943,Yes
+Jake700,Female,0,Yes,Yes,38,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),80,3059,Yes
+Jake701,Male,0,Yes,Yes,36,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,755,No
+Jake702,Female,1,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),96,6767,No
+Jake703,Male,0,Yes,Yes,31,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),75,2345,No
+Jake704,Female,0,Yes,Yes,34,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),26,917,No
+Jake705,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,80,Yes
+Jake706,Female,1,Yes,Yes,46,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110,4972,No
+Jake707,Male,0,No,Yes,49,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),75,3678,Yes
+Jake708,Male,0,No,No,5,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),64,318,No
+Jake709,Female,0,No,No,23,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,470,No
+Jake710,Male,0,No,No,33,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55,1665,No
+Jake711,Female,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),115,7133,No
+Jake712,Female,1,Yes,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,96,5472,No
+Jake713,Male,0,Yes,Yes,66,No,Maryville,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),57,3708,No
+Jake714,Male,1,Yes,No,33,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,Yes,Electronic check,94,3056,No
+Jake715,Female,0,No,No,69,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111,7455,No
+Jake716,Male,0,Yes,Yes,13,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50,587,No
+Jake717,Female,0,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,91,512,No
+Jake718,Female,0,Yes,Yes,55,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,1083,No
+Jake719,Male,0,Yes,Yes,7,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),70,516,No
+Jake720,Male,0,Yes,No,70,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1434,No
+Jake721,Male,0,Yes,No,42,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card (automatic),80,3376,No
+Jake722,Female,0,Yes,Yes,6,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),49,273,No
+Jake723,Female,0,Yes,Yes,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1079,No
+Jake724,Male,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),95,6079,No
+Jake725,Male,1,Yes,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99,4565,No
+Jake726,Female,0,Yes,No,55,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),90,4960,No
+Jake727,Male,0,Yes,No,59,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),100,5961,Yes
+Jake728,Male,0,No,No,6,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,19,110,No
+Jake729,Female,0,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),99,6417,No
+Jake730,Male,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95,463,Yes
+Jake731,Male,0,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,1504,Yes
+Jake732,Male,0,No,No,43,Yes,No,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Electronic check,60,2549,No
+Jake733,Male,1,No,No,17,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45,771,Yes
+Jake734,Male,0,No,No,52,No,Maryville,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,30,1623,No
+Jake735,Male,0,Yes,Yes,53,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,93,4779,No
+Jake736,Male,0,Yes,Yes,29,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),95,2649,Yes
+Jake737,Male,0,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,95,6273,No
+Jake738,Female,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109,4854,No
+Jake739,Female,1,Yes,No,18,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48,811,Yes
+Jake740,Male,0,Yes,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80,857,Yes
+Jake741,Female,0,No,No,65,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85,5459,No
+Jake742,Female,0,No,No,13,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,19,279,No
+Jake743,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jake744,Male,0,Yes,Yes,7,No,Maryville,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),50,306,No
+Jake745,Male,0,No,No,1,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,60,60,Yes
+Jake746,Male,0,No,No,19,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,85,1652,No
+Jake747,Female,0,No,No,67,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,26,1760,No
+Jake748,Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80,625,No
+Jake749,Male,0,No,No,10,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Credit card (automatic),20,199,No
+Jake750,Female,0,No,No,3,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,64,156,Yes
+Jake751,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71,71,Yes
+Jake752,Female,0,No,No,54,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1079,No
+Jake753,Male,0,No,No,60,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),117,7050,No
+Jake754,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,75,Yes
+Jake755,Male,0,Yes,Yes,20,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,400,No
+Jake756,Female,0,Yes,No,51,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,26,1281,No
+Jake757,Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),95,2852,No
+Jake758,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116,8477,No
+Jake759,Female,0,No,No,14,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80,1072,Yes
+Jake760,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,99,7422,No
+Jake761,Female,1,Yes,No,47,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),67,3252,No
+Jake762,Female,0,Yes,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,80,3399,No
+Jake763,Male,0,Yes,No,67,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Credit card (automatic),69,4672,No
+Jake764,Female,0,No,No,4,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,117,No
+Jake765,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,111,7752,No
+Jake766,Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,70,Yes
+Jake767,Male,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),98,7114,No
+Jake768,Male,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,431,Yes
+Jake769,Male,1,Yes,No,11,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70,835,No
+Jake770,Male,1,No,No,70,No,Maryville,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),44,3012,No
+Jake771,Male,0,Yes,No,66,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,64,4265,No
+Jake772,Male,0,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,76,866,No
+Jake773,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Credit card (automatic),20,20,No
+Jake774,Male,0,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),84,1538,No
+Jake775,Male,0,Yes,Yes,71,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),73,5155,No
+Jake776,Female,0,No,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),112,7796,No
+Jake777,Male,0,Yes,Yes,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Electronic check,106,2847,Yes
+Jake778,Male,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24,38,No
+Jake779,Female,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,107,7577,No
+Jake780,Male,0,No,No,13,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,244,No
+Jake781,Female,1,No,No,54,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80,4370,Yes
+Jake782,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,No
+Jake783,Male,0,No,No,39,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Electronic check,82,3220,No
+Jake784,Female,0,No,No,24,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),25,605,No
+Jake785,Female,0,No,No,39,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Electronic check,80,3202,Yes
+Jake786,Male,0,No,No,31,No,Maryville,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,50,1523,No
+Jake787,Female,0,Yes,Yes,70,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1686,No
+Jake788,Male,0,Yes,No,25,No,Maryville,DSL,No,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),38,970,No
+Jake789,Male,0,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,105,6823,No
+Jake790,Female,0,No,No,36,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95,3566,No
+Jake791,Female,1,Yes,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98,2511,No
+Jake792,Male,0,Yes,No,17,Yes,No,DSL,Yes,Yes,No,No,No,Yes,One year,No,Mailed check,65,1176,No
+Jake793,Male,0,No,No,12,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,54,649,No
+Jake794,Male,0,Yes,Yes,48,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),26,1245,No
+Jake795,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,79,426,No
+Jake796,Female,0,Yes,No,59,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),81,4639,No
+Jake797,Female,0,Yes,Yes,56,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1090,No
+Jake798,Female,0,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102,5885,Yes
+Jake799,Female,0,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),86,86,Yes
+Jake800,Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),79,2840,Yes
+Jake801,Female,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84,425,No
+Jake802,Female,0,Yes,Yes,42,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,19,762,No
+Jake803,Female,1,No,No,49,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),91,4516,Yes
+Jake804,Male,0,No,No,19,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),86,1532,Yes
+Jake805,Female,0,No,No,16,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),63,1067,No
+Jake806,Male,0,Yes,Yes,15,No,Maryville,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),30,470,No
+Jake807,Female,0,No,No,2,No,Maryville,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,43,72,Yes
+Jake808,Female,1,No,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105,1531,Yes
+Jake809,Male,0,No,No,50,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),90,4549,No
+Jake810,Female,0,No,No,11,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),54,652,No
+Jake811,Male,0,Yes,No,62,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Credit card (automatic),24,1447,No
+Jake812,Female,1,Yes,No,48,Yes,No,DSL,No,Yes,No,No,No,Yes,One year,Yes,Bank transfer (automatic),59,2790,No
+Jake813,Male,0,Yes,Yes,40,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,745,No
+Jake814,Female,1,No,No,22,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,82,1821,No
+Jake815,Female,0,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),25,1872,No
+Jake816,Female,0,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),80,4042,No
+Jake817,Male,0,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,75,825,Yes
+Jake818,Male,0,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,101,5515,No
+Jake819,Male,0,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,116,6568,No
+Jake820,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45,45,No
+Jake821,Female,0,No,No,17,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,69,1108,No
+Jake822,Female,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,62,No
+Jake823,Male,1,No,No,31,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),97,2878,No
+Jake824,Female,0,No,No,22,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,84,1856,Yes
+Jake825,Male,0,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,108,7841,No
+Jake826,Male,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111,7531,No
+Jake827,Female,0,Yes,Yes,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),19,1373,No
+Jake828,Male,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,547,Yes
+Jake829,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+Jake830,Female,1,No,No,31,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,2217,Yes
+Jake831,Male,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),91,6404,No
+Jake832,Female,0,No,No,11,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,25,245,No
+Jake833,Male,0,Yes,Yes,14,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,65,938,Yes
+Jake834,Male,1,No,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,110,7246,No
+Jake835,Female,0,Yes,No,71,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),25,1710,No
+Jake836,Male,0,No,No,56,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,53,3020,No
+Jake837,Male,0,No,No,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),116,3899,No
+Jake838,Male,0,No,No,59,No,Maryville,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,52,3006,No
+Jake839,Female,0,No,No,19,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,56,1093,No
+Jake840,Female,0,No,Yes,46,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,4391,No
+Jake841,Female,1,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44,89,No
+Jake842,Male,0,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),113,8127,No
+Jake843,Female,0,No,No,10,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,54,583,No
+Jake844,Male,0,No,No,7,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,148,No
+Jake845,Female,0,Yes,Yes,70,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1765,No
+Jake846,Male,0,Yes,Yes,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),85,6030,No
+Jake847,Female,0,Yes,No,44,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,62,2722,No
+Jake848,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,88,88,Yes
+Jake849,Female,0,No,No,4,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),56,227,No
+Jake850,Male,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,4113,Yes
+Jake851,Female,0,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),94,6303,No
+Jake852,Female,1,Yes,No,72,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1779,No
+Jake853,Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,87,87,Yes
+Jake854,Male,0,No,No,4,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50,207,Yes
+Jake855,Female,0,Yes,Yes,57,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Electronic check,53,3053,No
+Jake856,Male,0,No,Yes,56,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,25,1424,No
+Jake857,Female,0,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,1216,No
+Jake858,Male,0,No,No,2,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,91,175,No
+Jake859,Female,0,No,No,15,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,59,955,No
+Jake860,Female,0,No,Yes,16,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Bank transfer (automatic),19,360,No
+Jake861,Male,0,Yes,Yes,53,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),65,3364,No
+Jake862,Female,0,No,No,48,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),25,1204,No
+Jake863,Female,0,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),94,6922,No
+Jake864,Male,0,No,No,15,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,49,749,No
+Jake865,Male,1,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),103,2497,Yes
+Jake866,Female,0,No,No,8,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),54,448,No
+Jake867,Male,0,No,Yes,60,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,85,4985,No
+Jake868,Female,0,Yes,No,60,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94,5476,No
+Jake869,Male,0,Yes,No,47,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,973,No
+Jake870,Male,0,No,No,12,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),75,827,No
+Jake871,Male,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),109,7878,No
+Jake872,Male,0,No,No,69,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),60,4177,No
+Jake873,Female,0,Yes,Yes,71,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1416,No
+Jake874,Male,1,Yes,No,8,No,Maryville,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,43,371,No
+Jake875,Female,0,No,No,42,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),60,2537,No
+Jake876,Male,0,No,No,19,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,374,No
+Jake877,Female,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,60,Yes
+Jake878,Male,1,Yes,No,64,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,102,6538,No
+Jake879,Male,1,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86,409,No
+Jake880,Male,0,No,No,59,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,1192,No
+Jake881,Male,0,No,No,22,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,93,2157,No
+Jake882,Male,0,No,No,27,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,59,1612,No
+Jake883,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,Yes
+Jake884,Male,0,No,No,42,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Electronic check,25,950,No
+Jake885,Female,0,Yes,No,41,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),104,4162,No
+Jake886,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71,71,No
+Jake887,Male,1,Yes,No,20,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74,1464,Yes
+Jake888,Female,1,No,No,71,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100,6951,No
+Jake889,Female,0,Yes,Yes,16,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89,1430,Yes
+Jake890,Female,0,Yes,No,61,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,24,1418,No
+Jake891,Female,0,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95,307,Yes
+Jake892,Male,0,Yes,Yes,47,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,25,1160,No
+Jake893,Female,1,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90,2188,Yes
+Jake894,Male,0,Yes,Yes,52,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,19,1055,No
+Jake895,Female,0,No,No,8,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,49,408,No
+Jake896,Male,0,Yes,Yes,40,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),110,4469,No
+Jake897,Female,0,Yes,Yes,66,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),90,5959,No
+Jake898,Male,0,No,No,39,No,Maryville,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),49,1881,Yes
+Jake899,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,19,19,No
+Jake900,Female,0,No,No,2,No,Maryville,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35,62,Yes
+Jake901,Male,0,No,Yes,23,No,Maryville,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),41,947,No
+Jake902,Female,0,No,No,41,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,25,962,No
+Jake903,Male,1,Yes,No,64,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1741,No
+Jake904,Female,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,101,399,No
+Jake905,Male,0,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),46,85,Yes
+Jake906,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,20,No
+Jake907,Male,1,No,No,19,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,88,1776,Yes
+Jake908,Female,0,Yes,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Bank transfer (automatic),20,20,No
+Jake909,Male,0,Yes,No,29,No,Maryville,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,46,1332,No
+Jake910,Male,0,Yes,Yes,51,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),76,3966,No
+Jake911,Female,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,79,2570,No
+Jake912,Male,0,No,No,19,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25,468,No
+Jake913,Male,0,No,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105,323,Yes
+Jake914,Male,0,Yes,Yes,56,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),24,1402,No
+Jake915,Male,0,Yes,No,70,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Two year,No,Mailed check,68,4664,No
+Jake916,Male,0,Yes,Yes,40,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,75,3016,No
+Jake917,Male,0,Yes,Yes,21,No,Maryville,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,26,566,No
+Jake918,Male,0,Yes,Yes,16,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Two year,No,Mailed check,64,1024,No
+Jake919,Male,0,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101,2416,No
+Jake920,Male,1,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90,677,Yes
+Jake921,Male,0,Yes,No,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,1422,No
+Jake922,Male,0,No,No,17,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),56,934,No
+Jake923,Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70,145,Yes
+Jake924,Male,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70,70,Yes
+Jake925,Male,0,No,No,8,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,94,774,Yes
+Jake926,Male,0,Yes,Yes,53,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),26,1336,No
+Jake927,Male,1,No,Yes,56,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Credit card (automatic),95,5264,No
+Jake928,Male,0,No,No,41,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,74,3089,No
+Jake929,Male,0,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,6668,No
+Jake930,Female,1,Yes,No,62,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,105,6313,No
+Jake931,Male,0,No,No,46,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),19,908,No
+Jake932,Female,0,No,No,15,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,49,737,No
+Jake933,Male,0,Yes,Yes,38,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Electronic check,20,717,No
+Jake934,Female,0,No,No,15,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),83,1130,No
+Jake935,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),84,733,Yes
+Jake936,Male,0,Yes,Yes,62,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Bank transfer (automatic),20,1245,No
+Jake937,Male,0,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81,341,Yes
+Jake938,Female,0,No,Yes,28,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,535,No
+Jake939,Male,0,No,No,3,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Mailed check,19,69,No
+Jake940,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jake941,Male,0,Yes,No,69,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1363,No
+Jake942,Male,0,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),97,2684,No
+Jake943,Male,0,Yes,Yes,45,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110,4901,No
+Jake944,Male,0,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90,6369,No
+Jake945,Female,0,Yes,Yes,4,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,50,217,No
+Jake946,Male,0,Yes,No,4,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50,179,Yes
+Jake947,Female,1,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,19,19,Yes
+Jake948,Female,1,No,No,42,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85,3541,Yes
+Jake949,Male,0,No,No,5,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,51,306,Yes
+Jake950,Female,0,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,90,6311,No
+Jake951,Female,1,No,No,17,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,331,No
+Jake952,Male,0,Yes,No,24,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),74,1713,No
+Jake953,Female,0,Yes,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),80,1706,No
+Jake954,Female,0,No,No,58,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Credit card (automatic),25,1519,No
+Jake955,Female,0,Yes,Yes,4,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74,325,Yes
+Jake956,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78,78,Yes
+Jake957,Female,0,Yes,No,67,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Mailed check,20,1335,No
+Jake958,Male,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Electronic check,20,20,Yes
+Jake959,Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,85,603,Yes
+Jake960,Male,0,No,No,22,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,65,1428,No
+Jake961,Male,0,No,No,32,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,20,608,No
+Jake962,Female,0,Yes,No,24,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Credit card (automatic),20,483,No
+Jake963,Male,0,No,Yes,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Mailed check,101,3895,No
+Jake964,Male,1,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,75,Yes
+Jake965,Female,1,Yes,No,565,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,19437,6479,No
+Jake966,Male,0,No,No,1,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,61,61,No
+Jake967,Female,0,No,No,25,No,Maryville,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,61,1540,No
+Jake968,Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),109,7083,No
+Jake969,Female,0,Yes,Yes,35,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,72,2569,Yes
+Jake970,Female,0,Yes,Yes,72,No,Maryville,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),65,4784,No
+Jake971,Female,0,Yes,Yes,56,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,No,Bank transfer (automatic),65,3512,No
+Jake972,Female,1,No,No,6,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74,451,No
+Jake973,Female,0,Yes,No,29,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Mailed check,20,522,No
+Jake974,Female,0,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45,429,No
+Jake975,Female,0,Yes,No,64,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),95,5949,No
+Jake976,Female,0,Yes,Yes,45,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,Yes,Bank transfer (automatic),20,886,No
+Jake977,Male,0,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),69,489,No
+Jake978,Male,0,No,No,29,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99,2807,No
+Jake979,Male,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100,3480,Yes
+Jake980,Female,0,Yes,Yes,31,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,Yes,Mailed check,20,659,Yes
+Jake981,Female,0,No,No,1,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Month-to-month,No,Mailed check,20,20,Yes
+Jake982,Male,0,Yes,Yes,72,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),20,1401,No
+Jake983,Female,0,Yes,Yes,15,Yes,No,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,No,Mailed check,21,296,No
+Jake984,Female,0,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75,2149,No
+Jake985,Female,0,No,No,2,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,54,117,No
+Jake986,Male,0,No,No,44,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),85,3704,No
+Jake987,Male,0,No,No,22,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101,2317,Yes
+Jake988,Female,0,No,No,61,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,89,5501,No
+Jake989,Male,0,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,92,5961,No
+Jake990,Male,0,Yes,Yes,23,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100,2331,Yes
+Jake991,Male,0,Yes,Yes,68,Yes,Yes,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Bank transfer (automatic),25,1620,No
+Jake992,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,84,5714,No
+Jake993,Female,0,Yes,Yes,47,Yes,No,Dial-in,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,Two year,No,Credit card (automatic),20,873,No
+Jake994,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,46,46,No
+Jake995,Male,0,Yes,Yes,70,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),80,5600,No
+Jake996,Male,1,No,No,52,No,Maryville,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,49,2551,Yes
+Jake997,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,111,7267,No
+Jake998,Female,0,No,No,38,Yes,Yes,onlyViaER,Maryville,Maryville,Maryville,Maryville,Maryville,Maryville,One year,Yes,Electronic check,24,914,No
+Jake999,Female,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,92,5756,No
+Jake1000,Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Bank transfer (automatic),79,2647,No
